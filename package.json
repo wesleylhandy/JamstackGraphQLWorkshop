@@ -1,0 +1,8 @@
+{
+  "name": "JamstackGraphQLWorkshop",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Wesley L. Handy <wesley@wearecreativ.media>",
+  "license": "MIT",
+  "private": true
+}
